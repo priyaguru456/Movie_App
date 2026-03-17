@@ -1,16 +1,80 @@
-# React + Vite
+Portfolio App
+📌 Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Portfolio App is a modern web application built with React that showcases personal projects, skills, and professional experience in a clean and interactive way. The application acts as a personal portfolio website where visitors can explore projects, view skills, and learn more about the developer.
 
-Currently, two official plugins are available:
+This project demonstrates React component-based architecture, responsive design, and dynamic UI development.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
 
-## React Compiler
+👤 About Section – Introduction and personal information
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+💼 Projects Showcase – Display portfolio projects with details
 
-## Expanding the ESLint configuration
+🛠 Skills Section – Highlight technical skills and technologies
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📬 Contact Section – Allow visitors to connect or send messages
+
+📱 Responsive Design – Works on desktop, tablet, and mobile devices
+
+⚡ Fast and Interactive UI using React
+
+🛠 Tech Stack
+
+Frontend: React.js
+
+Language: JavaScript (ES6+)
+
+Styling: CSS / Bootstrap / Tailwind CSS
+
+Routing: React Router (if used)
+
+State Management: React Hooks
+
+📂 Project Structure
+portfolio-app
+│
+├── public
+├── src
+│   ├── components
+│   ├── pages
+│   ├── assets
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── package.json
+└── README.md
+⚙️ Installation
+
+1️⃣ Clone the repository
+
+git clone https://github.com/your-username/portfolio-app.git
+
+2️⃣ Navigate to the project folder
+
+cd portfolio-app
+
+3️⃣ Install dependencies
+
+npm install
+
+4️⃣ Run the project
+
+npm start
+
+5️⃣ Open in browser
+
+http://localhost:3000
+💡 Future Improvements
+
+Add dark mode support
+
+Add animations and transitions
+
+Integrate contact form backend
+
+Deploy on Vercel / Netlify
+
+👨‍💻 Author
+
+Developed by Priya Guru
